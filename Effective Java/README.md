@@ -3,3 +3,4 @@
 
 
 1. [Consider static factory Method instead of constructors](item1.md)
+2. [Consider a builder when faced with many constructor parameters](Item2.md)
